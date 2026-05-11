@@ -196,7 +196,7 @@ END
 
 #### Output Table
 
-<img width="1115" height="805" alt="image" src="https://github.com/user-attachments/assets/0100b703-337a-40b9-b535-66b784e7c5e8" />
+<img width="1115" height="805" alt="image" src="https://github.com/user-attachments/assets/9a6ef66d-fcc5-42fa-bb94-7d35f47e7d57" />
 
 
 #### Manual Calculations
