@@ -53,20 +53,18 @@ END
 ```
 
 #### Output Table
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-11 at 09 29 56" src="https://github.com/user-attachments/assets/0a0c961e-9e34-4190-93a4-e6a1e8059b2c" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
 
 #### Manual Calculations
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-11 at 09 29 56" src="https://github.com/user-attachments/assets/a84f738e-613b-4121-b425-90787600c35d" />
 
 (Add your calculation here)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-11 at 09 29 56" src="https://github.com/user-attachments/assets/ecbd6d25-f0d0-4bc5-a5e1-809dae567875" />
 
 ## 2. SUBTRACTION
 
